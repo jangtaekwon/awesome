@@ -5,9 +5,6 @@
 #### W3
 - https://www.w3schools.com/
 
-#### AI Blog (CNN, GAN..)
-- https://jhui.github.io/
-
 ## Open Source
 #### News
 - https://deeplearn.org/
@@ -55,7 +52,13 @@
 - https://github.com/yukezhu/tensorflow-reinforce
 #### Tensorflow examples
 - https://github.com/charlesq34/
-
+#### Online Tutorial
+- http://www.deeplearningbook.org/
+- https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+- https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html
+#### AI Blog
+- http://kaiminghe.com/
+- https://jhui.github.io/
 ## PyTorch
 #### Codes examples
 - https://github.com/fxia22/pointnet.pytorch
