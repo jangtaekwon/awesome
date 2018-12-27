@@ -25,6 +25,7 @@
 - https://matplotlib.org/gallery.html
 - https://stackoverflow.com/questions/11328958/save-the-plots-into-a-pdf
 - https://github.com/nfmcclure/tensorflow_cookbook
+- https://matplotlib.org/examples/pylab_examples/finance_work2.html
 
 #### Metric Learning Open source
 - https://github.com/omoindrot/tensorflow-triplet-loss
