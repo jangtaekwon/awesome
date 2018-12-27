@@ -21,6 +21,7 @@
 - https://github.com/norman3
 
 #### Python chart example codes!
+- http://acornpub.co.kr/book/mastering-python-visualization (has link)
 - https://matplotlib.org/gallery.html
 - https://stackoverflow.com/questions/11328958/save-the-plots-into-a-pdf
 - https://github.com/nfmcclure/tensorflow_cookbook
